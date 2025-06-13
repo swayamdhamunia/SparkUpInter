@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Classic Cola",
+    "description": "Refreshing fizzy cola served chilled",
+    "price": "$2.00",
+    "image": "assets/drinks/dr1.jpg"
+  },
+  {
+    "name": "Lemon Iced Tea",
+    "description": "Cool and tangy lemon iced tea with ice cubes",
+    "price": "$2.50",
+    "image": "assets/drinks/dr2.jpg"
+  },
+  {
+    "name": "Mango Smoothie",
+    "description": "Thick and creamy mango smoothie made with real fruit",
+    "price": "$3.75",
+    "image": "assets/drinks/dr3.jpg"
+  },
+  {
+    "name": "Strawberry Milkshake",
+    "description": "Sweet strawberry milkshake topped with whipped cream",
+    "price": "$4.00",
+    "image": "assets/drinks/dr4.jpg"
+  },
+  {
+    "name": "Sparkling Water",
+    "description": "Carbonated mineral water with a hint of lime",
+    "price": "$1.50",
+    "image": "assets/drinks/dr5.jpg"
+  },
+  {
+    "name": "Cold Coffee",
+    "description": "Iced coffee with milk and a shot of espresso",
+    "price": "$3.25",
+    "image": "assets/drinks/dr6.jpg"
+  }
+]

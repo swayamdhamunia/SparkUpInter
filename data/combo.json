@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Classic Burger Combo",
+    "description": "Juicy beef burger, fries, and a soft drink",
+    "price": "$9.99",
+    "image": "assets/combo/pd1.png"
+  },
+  {
+    "name": "Chicken Meal Deal",
+    "description": "Fried chicken, mashed potatoes, and iced tea",
+    "price": "$10.99",
+    "image": "assets/combo/pd2.png"
+  },
+  {
+    "name": "Pizza Combo Box",
+    "description": "Medium pizza, garlic bread, and soda",
+    "price": "$12.50",
+    "image": "assets/combo/pd3.png"
+  },
+  {
+    "name": "Veggie Delight Combo",
+    "description": "Grilled veggie burger, salad, and lemonade",
+    "price": "$8.75",
+    "image": "assets/combo/pd4.png"
+  },
+  {
+    "name": "Family Feast",
+    "description": "2 burgers, 2 fries, 2 drinks, and nuggets",
+    "price": "$18.99",
+    "image": "assets/combo/pd5.png"
+  },
+  {
+    "name": "Snack Box",
+    "description": "Mini burger, small fries, and juice box",
+    "price": "$6.50",
+    "image": "assets/combo/pd6.png"
+  }
+]

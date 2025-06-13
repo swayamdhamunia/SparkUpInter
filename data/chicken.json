@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Grilled Chicken Sandwich",
+    "description": "Tender grilled chicken breast with lettuce and honey mustard",
+    "price": "$8.99",
+    "image": "assets/chicken/mi-1.png"
+  },
+  {
+    "name": "Spicy Crispy Chicken Burger",
+    "description": "Crispy fried chicken with spicy mayo and pickles",
+    "price": "$9.50",
+    "image": "assets/chicken/mi-2.png"
+  },
+  {
+    "name": "Classic Chicken Wrap",
+    "description": "Grilled chicken, fresh veggies, and ranch dressing in a wrap",
+    "price": "$7.75",
+    "image": "assets/chicken/mi-3.png"
+  },
+  {
+    "name": "Chicken Nuggets",
+    "description": "Crispy golden nuggets served with your choice of sauce",
+    "price": "$6.00",
+    "image": "assets/chicken/mi-4.png"
+  },
+  {
+    "name": "Buffalo Chicken Sandwich",
+    "description": "Spicy buffalo chicken with lettuce and blue cheese",
+    "price": "$9.25",
+    "image": "assets/chicken/mi-5.png"
+  },
+  {
+    "name": "BBQ Chicken Deluxe",
+    "description": "Grilled chicken smothered in tangy BBQ sauce and cheddar cheese",
+    "price": "$10.00",
+    "image": "assets/chicken/mi-6.png"
+  }
+]

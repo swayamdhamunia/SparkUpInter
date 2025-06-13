@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Classic Cheeseburger",
+    "description": "Juicy beef patty topped with cheddar, lettuce, and tomato",
+    "price": "$9.50",
+    "image": "assets/burger/br1.png"
+  },
+  {
+    "name": "Bacon BBQ Burger",
+    "description": "Smoky BBQ sauce, crispy bacon, and grilled onions",
+    "price": "$11.00",
+    "image": "assets/burger/br2.png"
+  },
+  {
+    "name": "Double Patty Melt",
+    "description": "Two grilled patties with melted Swiss cheese on sourdough",
+    "price": "$12.50",
+    "image": "assets/burger/br3.png"
+  },
+  {
+    "name": "Spicy Jalapeño Burger",
+    "description": "Kick of heat with jalapeños, pepper jack cheese, and chipotle mayo",
+    "price": "$10.75",
+    "image": "assets/burger/br4.png"
+  },
+  {
+    "name": "Veggie Delight Burger",
+    "description": "Grilled veggie patty with avocado, sprouts, and garlic aioli",
+    "price": "$9.00",
+    "image": "assets/burger/br5.png"
+  },
+  {
+    "name": "Mushroom Swiss Burger",
+    "description": "Sautéed mushrooms with melted Swiss on a toasted bun",
+    "price": "$10.25",
+    "image": "assets/burger/br6.png"
+  }
+]

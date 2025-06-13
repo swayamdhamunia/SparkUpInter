@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Margherita",
+    "description": "Classic delight with 100% real mozzarella cheese",
+    "price": "$8.00",
+    "image": "assets/pizza/piz5.png"
+  },
+  {
+    "name": "Margherita",
+    "description": "Classic delight with 100% real mozzarella cheese",
+    "price": "$8.00",
+    "image": "assets/pizza/piz6.png"
+  },
+  {
+    "name": "Margherita",
+    "description": "Classic delight with 100% real mozzarella cheese",
+    "price": "$8.00",
+    "image": "assets/pizza/piz4.png"
+  },
+  {
+    "name": "Margherita",
+    "description": "Classic delight with 100% real mozzarella cheese",
+    "price": "$8.00",
+    "image": "assets/pizza/piz3.png"
+  },
+  {
+    "name": "Margherita",
+    "description": "Classic delight with 100% real mozzarella cheese",
+    "price": "$8.00",
+    "image": "assets/pizza/piz2.png"
+  },
+  {
+    "name": "Pepperoni",
+    "description": "Spicy pepperoni and extra cheese",
+    "price": "$10.00",
+    "image": "assets/pizza/piz1.png"
+  }
+]
